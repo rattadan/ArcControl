@@ -1,4 +1,4 @@
-# ARC Flutter
+# ARC Control
 
 A native Android/iOS application showcasing multi-chain crypto functionality (ArcEVM, Solana, Noble and all supported CCTP enabled networks) and an interactive price chart with technical indicators and AI insights. The app integrates on-chain data (balances, transfers/bridging) and a candlestick chart that can fetch OHLCV data, compute indicators (RSI, MACD, SMA), and render AI-generated annotations on top of the chart.
 
