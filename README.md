@@ -12,14 +12,11 @@ Furthermore you can use the integrated Chart to investigate pricechart along wit
   - EVM chains (e.g., Sepolia/Testnet) with ERC-20 balance queries
   - CCTP bridge flows with attestation polling
 
-- **Price chart **
-  - Indicators: RSI, MACD, SMA overlays (combined view is default)
-  - Trend bands: renders LLM-provided `Trend_*` ranges as translucent overlays
-  - Markers: renders `Marker_*` badges on specific candles
-  - Tooltip with OHLC/Volume; shows marker description when selected
-
 - **AI Insights**
   - Sends the currently loaded range, candles, and indicators to an Akash 235B LLM
+  
+    Download link
+  - https://nride.network/wp-content/uploads/ArcControl_v003.apk
 
   - Parsed markers and trends are rendered on the chart; the top panel shows the AI summary and lists markers/trends
 
