@@ -8,15 +8,17 @@ Furthermore you can use the integrated Chart to investigate pricechart along wit
 ## Highlights
 
 - **Multi-chain integrations**
-  - Solana token pairs via Moralis OHLCV API
+  - EVM and Solana token pairs via Moralis OHLCV API
   - EVM chains (e.g., Sepolia/Testnet) with ERC-20 balance queries
   - CCTP bridge flows with attestation polling
 
 - **AI Insights**
+- Chart Analyzer with easy-to-adjust technical Indicators: SMA, RSI, MACD and stochastic oscillator 
+- Adjust the indicators, and send the dataset to all supported Akash models  chatapi.akash.network
   - Sends the currently loaded range, candles, and indicators to an Akash 235B LLM
   
     Download link
-  - https://nride.network/wp-content/uploads/ArcControl_v003.apk
+  - https://nride.network/wp-content/uploads/ArcControl_v004.apk
 
   - Parsed markers and trends are rendered on the chart; the top panel shows the AI summary and lists markers/trends
 
