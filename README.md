@@ -21,7 +21,7 @@ Furthermore you can use the integrated Chart to investigate pricechart along wit
   - https://nride.network/wp-content/uploads/ArcControl_v004.apk
 
   Web Version (only Price Chart Analysis)
-  https://arccontrol2-rattadan-rattadans-projects.vercel.app/
+  https://arccontrol2.vercel.app/
 
   - Parsed markers and trends are rendered on the chart; the top panel shows the AI summary and lists markers/trends
 
